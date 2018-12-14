@@ -10,10 +10,15 @@ namespace CubeSolver.Domain
 
         public Cube(int size = 3)
         {
-            Size = 3;
+            Size = size;
         }
 
         public void Initialize(int size)
+        {
+            InitFaces(size);   
+        }
+
+        public void InitFaces(int size)
         {
             // Green - Front
             // White - Top

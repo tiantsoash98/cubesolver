@@ -20,7 +20,7 @@ namespace CubeSolver.Domain
         public Piece() { }
         public Piece(Color color, int x, int y)
         {
-            Color = Color;
+            Color = color;
             X = x;
             Y = y;
         }

@@ -1,0 +1,7 @@
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.exe
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.pdb
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\obj\Debug\UnitTests.pdb

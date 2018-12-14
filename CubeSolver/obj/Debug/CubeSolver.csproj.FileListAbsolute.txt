@@ -1,1 +1,6 @@
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver\bin\Debug\CubeSolver.exe.config
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver\bin\Debug\CubeSolver.exe
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver\bin\Debug\CubeSolver.pdb
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver\obj\Debug\CubeSolver.csprojResolveAssemblyReference.cache
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver\obj\Debug\CubeSolver.exe
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver\obj\Debug\CubeSolver.pdb
