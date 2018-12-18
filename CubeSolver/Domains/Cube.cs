@@ -1,5 +1,6 @@
 ﻿using CubeSolver.Enums;
 using System;
+using System.Linq;
 
 namespace CubeSolver.Domain
 {
@@ -8,9 +9,14 @@ namespace CubeSolver.Domain
         public int Size { get; set; }
         public Face[] Faces { get; set; }
 
-        public Cube(int size = 3)
+        public Cube(int size = 3, bool initialize = true)
         {
             Size = size;
+
+            if (initialize)
+            {
+                Initialize(size);         
+            }
         }
 
         public void Initialize(int size)
@@ -34,6 +40,11 @@ namespace CubeSolver.Domain
             Faces[3] = new Face(Color.Blue, Size, FacePosition.Back);
             Faces[4] = new Face(Color.White, Size, FacePosition.Up);
             Faces[5] = new Face(Color.Yellow, Size, FacePosition.Down);
+        }
+
+        public Face GetFaceByPosition(FacePosition position)
+        {
+            return Faces.First(f => f.Position == position);
         }
     }
 }

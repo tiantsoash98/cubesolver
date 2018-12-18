@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CubeSolver.Interfaces
+﻿namespace CubeSolver.Interfaces
 {
-    interface IRotationActions
+    public interface IRotationActions
     {
+        void R();
+        void Rrev();
+        void L();
+        void Lrev();
+        void U();
+        void Urev();
     }
 }

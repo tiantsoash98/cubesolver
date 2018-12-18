@@ -50,6 +50,8 @@
     <Compile Include="Enums\PiecePosition.cs" />
     <Compile Include="Domains\Face.cs" />
     <Compile Include="Domains\Piece.cs" />
+    <Compile Include="Enums\Rotation.cs" />
+    <Compile Include="Extensions\FacePositionExtensions.cs" />
     <Compile Include="Interfaces\IRotationActions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

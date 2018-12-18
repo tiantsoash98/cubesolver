@@ -4,11 +4,7 @@
     {
         static void Main(string[] args)
         {
-            var cube = new CubeSolver.Domain.Cube();
-
-            cube.Initialize(3);
-
-
+            var cube = new CubeSolver.Domain.Cube(3);
         }
     }
 }
