@@ -1,6 +1,6 @@
 ﻿namespace CubeSolver.Infrastructure.Enums
 {
-    public enum Rotation
+    public enum RotationSense
     {
         Clockwise,
         Anticlockwise

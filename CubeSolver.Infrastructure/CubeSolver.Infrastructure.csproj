@@ -43,7 +43,8 @@
     <Compile Include="Enums\Color.cs" />
     <Compile Include="Enums\FacePosition.cs" />
     <Compile Include="Enums\PiecePosition.cs" />
-    <Compile Include="Enums\Rotation.cs" />
+    <Compile Include="Enums\RotationSense.cs" />
+    <Compile Include="Enums\PickType.cs" />
     <Compile Include="Extensions\FacePositionExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

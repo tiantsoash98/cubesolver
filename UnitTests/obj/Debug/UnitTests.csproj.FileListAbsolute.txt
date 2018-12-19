@@ -1,7 +1,11 @@
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\UnitTests.dll
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\UnitTests.pdb
-C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.exe
-C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.pdb
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Action.dll
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Infrastructure.dll
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Action.pdb
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Infrastructure.pdb
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Domain.dll
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Domain.pdb

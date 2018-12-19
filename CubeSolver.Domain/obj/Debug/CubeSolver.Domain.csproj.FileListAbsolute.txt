@@ -1,0 +1,7 @@
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Domain\bin\Debug\CubeSolver.Domain.dll
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Domain\bin\Debug\CubeSolver.Domain.pdb
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Domain\bin\Debug\CubeSolver.Infrastructure.dll
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Domain\bin\Debug\CubeSolver.Infrastructure.pdb
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Domain\obj\Debug\CubeSolver.Domain.csprojResolveAssemblyReference.cache
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Domain\obj\Debug\CubeSolver.Domain.dll
+C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Domain\obj\Debug\CubeSolver.Domain.pdb

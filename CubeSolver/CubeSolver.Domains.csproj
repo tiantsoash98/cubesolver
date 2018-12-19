@@ -46,11 +46,7 @@
     <Compile Include="Domains\Cube.cs" />
     <Compile Include="Domains\Face.cs" />
     <Compile Include="Domains\Piece.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CubeSolver.Infrastructure\CubeSolver.Infrastructure.csproj">
