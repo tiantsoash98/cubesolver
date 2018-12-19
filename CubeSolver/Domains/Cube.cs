@@ -1,5 +1,4 @@
-﻿using CubeSolver.Enums;
-using System;
+﻿using CubeSolver.Infrastructure.Enums;
 using System.Linq;
 
 namespace CubeSolver.Domain

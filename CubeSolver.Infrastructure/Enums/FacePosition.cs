@@ -1,4 +1,4 @@
-﻿namespace CubeSolver.Enums
+﻿namespace CubeSolver.Infrastructure.Enums
 {
     public enum FacePosition
     {

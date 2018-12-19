@@ -56,10 +56,21 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CubeSolver\CubeSolver.csproj">
-      <Project>{5150ba6f-d70f-4025-9125-f42c708df16c}</Project>
-      <Name>CubeSolver</Name>
+    <ProjectReference Include="..\CubeSolver.Action\CubeSolver.Action.csproj">
+      <Project>{5547b859-7b37-43b3-b6c1-cbb7a74d7e99}</Project>
+      <Name>CubeSolver.Action</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CubeSolver.Infrastructure\CubeSolver.Infrastructure.csproj">
+      <Project>{4e3c119f-b54b-40d4-931b-490a9aba55f1}</Project>
+      <Name>CubeSolver.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CubeSolver\CubeSolver.Domain.csproj">
+      <Project>{5150ba6f-d70f-4025-9125-f42c708df16c}</Project>
+      <Name>CubeSolver.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Actions\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

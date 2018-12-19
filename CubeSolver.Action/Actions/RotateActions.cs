@@ -1,7 +1,6 @@
 ﻿using CubeSolver.Domain;
-using CubeSolver.Enums;
+using CubeSolver.Infrastructure.Enums;
 using CubeSolver.Interfaces;
-using CubeSolver.Extensions;
 using System;
 
 namespace CubeSolver.Actions
@@ -38,8 +37,6 @@ namespace CubeSolver.Actions
             {
                 Piece topF = curFront.Pieces[2, 0];
                 Piece topU = curUp.Pieces[2, 0];
-
-
             }
 
         }

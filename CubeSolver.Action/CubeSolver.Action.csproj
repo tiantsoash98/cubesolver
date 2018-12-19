@@ -4,17 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5150BA6F-D70F-4025-9125-F42C708DF16C}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{5547B859-7B37-43B3-B6C1-CBB7A74D7E99}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CubeSolver</RootNamespace>
-    <AssemblyName>CubeSolver</AssemblyName>
+    <RootNamespace>CubeSolver.Action</RootNamespace>
+    <AssemblyName>CubeSolver.Action</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -44,22 +41,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Actions\RotateActions.cs" />
-    <Compile Include="Domains\Cube.cs" />
-    <Compile Include="Enums\Color.cs" />
-    <Compile Include="Enums\FacePosition.cs" />
-    <Compile Include="Enums\PiecePosition.cs" />
-    <Compile Include="Domains\Face.cs" />
-    <Compile Include="Domains\Piece.cs" />
-    <Compile Include="Enums\Rotation.cs" />
-    <Compile Include="Extensions\FacePositionExtensions.cs" />
     <Compile Include="Interfaces\IRotationActions.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <ProjectReference Include="..\CubeSolver.Infrastructure\CubeSolver.Infrastructure.csproj">
+      <Project>{4e3c119f-b54b-40d4-931b-490a9aba55f1}</Project>
+      <Name>CubeSolver.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CubeSolver\CubeSolver.Domain.csproj">
+      <Project>{5150ba6f-d70f-4025-9125-f42c708df16c}</Project>
+      <Name>CubeSolver.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
