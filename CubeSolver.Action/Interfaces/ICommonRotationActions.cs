@@ -1,6 +1,6 @@
 ﻿using CubeSolver.Domain;
 
-namespace CubeSolver.Interfaces
+namespace CubeSolver.Action.Interfaces
 {
     public interface ICommonRotationActions
     {
