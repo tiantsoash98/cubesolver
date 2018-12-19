@@ -3,3 +3,9 @@ C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Infrastructure\bin
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Infrastructure\obj\Debug\CubeSolver.Infrastructure.dll
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Infrastructure\obj\Debug\CubeSolver.Infrastructure.pdb
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Infrastructure\obj\Debug\CubeSolver.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Dev Mauritius\cubesolver\CubeSolver.Infrastructure\bin\Debug\CubeSolver.Infrastructure.dll
+E:\Dev Mauritius\cubesolver\CubeSolver.Infrastructure\bin\Debug\CubeSolver.Infrastructure.pdb
+E:\Dev Mauritius\cubesolver\CubeSolver.Infrastructure\obj\Debug\CubeSolver.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Dev Mauritius\cubesolver\CubeSolver.Infrastructure\obj\Debug\CubeSolver.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Dev Mauritius\cubesolver\CubeSolver.Infrastructure\obj\Debug\CubeSolver.Infrastructure.dll
+E:\Dev Mauritius\cubesolver\CubeSolver.Infrastructure\obj\Debug\CubeSolver.Infrastructure.pdb

@@ -10,7 +10,7 @@ namespace CubeSolver.Infrastructure.Extensions
             {
                 case RotationSense.Clockwise:
                     return RotateClockwise(face, pickType);
-                case RotationSense.Anticlockwise:
+                case RotationSense.Counterclockwise:
                     return RotateAnticlockwise(face, pickType);
                 default:
                     return face;

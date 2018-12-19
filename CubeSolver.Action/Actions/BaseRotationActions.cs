@@ -1,11 +1,12 @@
-﻿using CubeSolver.Domain;
+﻿using CubeSolver.Action.Abstract;
+using CubeSolver.Domain;
 using CubeSolver.Infrastructure.Enums;
 using CubeSolver.Infrastructure.Extensions;
 using System.Collections.Generic;
 
 namespace CubeSolver.Action.Actions
 {
-    public abstract class BaseRotationActions
+    public abstract class BaseRotationActions: BaseDoubleLayerRotationActions
     {
         public void Rotate(Cube cube, RotationSense rotationSense, PickType pickType, int index)
         {
@@ -39,7 +40,7 @@ namespace CubeSolver.Action.Actions
             } while (nextFacePosition != endPosition);
         }
 
-        public FacePosition GetEndingRotation(RotationSense rotationSense, PickType pickType)
+        private FacePosition GetEndingRotation(RotationSense rotationSense, PickType pickType)
         {
             switch (pickType)
             {

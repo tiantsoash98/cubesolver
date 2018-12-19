@@ -40,10 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\BaseComplexRotationActions.cs" />
+    <Compile Include="Abstract\BaseCubeRotationActions.cs" />
+    <Compile Include="Abstract\BaseDoubleLayerRotationActions.cs" />
     <Compile Include="Actions\BaseRotationActions.cs" />
+    <Compile Include="Actions\CubeRotationActions.cs" />
     <Compile Include="Actions\RotationActions.cs" />
-    <Compile Include="Interfaces\ICommonRotationActions.cs" />
-    <Compile Include="Interfaces\IUncommonRotationActions.cs" />
+    <Compile Include="Abstract\BaseCommonRotationActions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

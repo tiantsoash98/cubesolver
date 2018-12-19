@@ -52,7 +52,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="ActionsTests\CommonRotationTest.cs" />
+    <Compile Include="ActionsTests\RotationActionTest.cs" />
     <Compile Include="DomainTests\CubeTest.cs" />
     <Compile Include="DomainTests\FaceTest.cs" />
     <Compile Include="Infrastructure\FacePositionTest.cs" />

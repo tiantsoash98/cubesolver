@@ -9,3 +9,16 @@ C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolve
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Infrastructure.pdb
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Domain.dll
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\UnitTests\bin\Debug\CubeSolver.Domain.pdb
+E:\Dev Mauritius\cubesolver\UnitTests\bin\Debug\UnitTests.dll
+E:\Dev Mauritius\cubesolver\UnitTests\bin\Debug\UnitTests.pdb
+E:\Dev Mauritius\cubesolver\UnitTests\bin\Debug\CubeSolver.Action.dll
+E:\Dev Mauritius\cubesolver\UnitTests\bin\Debug\CubeSolver.Domain.dll
+E:\Dev Mauritius\cubesolver\UnitTests\bin\Debug\CubeSolver.Infrastructure.dll
+E:\Dev Mauritius\cubesolver\UnitTests\bin\Debug\CubeSolver.Action.pdb
+E:\Dev Mauritius\cubesolver\UnitTests\bin\Debug\CubeSolver.Domain.pdb
+E:\Dev Mauritius\cubesolver\UnitTests\bin\Debug\CubeSolver.Infrastructure.pdb
+E:\Dev Mauritius\cubesolver\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+E:\Dev Mauritius\cubesolver\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+E:\Dev Mauritius\cubesolver\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+E:\Dev Mauritius\cubesolver\UnitTests\obj\Debug\UnitTests.dll
+E:\Dev Mauritius\cubesolver\UnitTests\obj\Debug\UnitTests.pdb

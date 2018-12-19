@@ -3,6 +3,6 @@
     public enum RotationSense
     {
         Clockwise,
-        Anticlockwise
+        Counterclockwise
     }
 }

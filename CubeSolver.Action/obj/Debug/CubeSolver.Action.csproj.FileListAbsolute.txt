@@ -7,3 +7,14 @@ C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Action\obj\Debug\C
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Action\obj\Debug\CubeSolver.Action.pdb
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Action\bin\Debug\CubeSolver.Domain.dll
 C:\Users\trabemananjara\Documents\Tests\CubeSolver\CubeSolver.Action\bin\Debug\CubeSolver.Domain.pdb
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\bin\Debug\CubeSolver.Action.dll
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\bin\Debug\CubeSolver.Action.pdb
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\bin\Debug\CubeSolver.Domain.dll
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\bin\Debug\CubeSolver.Infrastructure.dll
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\bin\Debug\CubeSolver.Domain.pdb
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\bin\Debug\CubeSolver.Infrastructure.pdb
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\obj\Debug\CubeSolver.Action.csprojResolveAssemblyReference.cache
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\obj\Debug\CubeSolver.Action.csproj.CoreCompileInputs.cache
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\obj\Debug\CubeSolver.Action.csproj.CopyComplete
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\obj\Debug\CubeSolver.Action.dll
+E:\Dev Mauritius\cubesolver\CubeSolver.Action\obj\Debug\CubeSolver.Action.pdb
