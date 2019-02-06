@@ -1,7 +1,7 @@
-﻿using CubeSolver.Infrastructure.Enums;
+﻿using CubeSolver.Domain.Enums;
 using System;
 
-namespace CubeSolver.Domain
+namespace CubeSolver.Domain.Domains
 {
     public class Piece
     {

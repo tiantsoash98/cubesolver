@@ -1,6 +1,6 @@
-﻿using CubeSolver.Infrastructure.Enums;
+﻿using CubeSolver.Domain.Enums;
 
-namespace CubeSolver.Infrastructure.Extensions
+namespace CubeSolver.Domain.Extensions
 {
     public static class FacePositionExtensions
     {

@@ -31,6 +31,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,13 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enums\Color.cs" />
-    <Compile Include="Enums\FacePosition.cs" />
-    <Compile Include="Enums\PiecePosition.cs" />
-    <Compile Include="Enums\RotationSense.cs" />
-    <Compile Include="Enums\PickType.cs" />
-    <Compile Include="Extensions\FacePositionExtensions.cs" />
+    <Compile Include="Components\DebugWriter.cs" />
+    <Compile Include="Components\Manager.cs" />
+    <Compile Include="Exceptions\UnableToExportClassException.cs" />
+    <Compile Include="Interfaces\IManager.cs" />
+    <Compile Include="Interfaces\IOutput.cs" />
+    <Compile Include="Logging\Logs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Enums\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

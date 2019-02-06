@@ -1,8 +1,8 @@
-﻿using CubeSolver.Infrastructure.Enums;
+﻿using CubeSolver.Domain.Enums;
 using System.Linq;
 using System.Text;
 
-namespace CubeSolver.Domain
+namespace CubeSolver.Domain.Domains
 {
     public class Cube
     {

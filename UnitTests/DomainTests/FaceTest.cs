@@ -1,8 +1,7 @@
-﻿using System.Linq;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CubeSolver.Domain;
-using CubeSolver.Infrastructure.Enums;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using CubeSolver.Domain.Enums;
 using System.Collections.Generic;
+using CubeSolver.Domain.Domains;
 
 namespace UnitTests.DomainTests
 {

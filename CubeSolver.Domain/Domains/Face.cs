@@ -1,9 +1,9 @@
-﻿using CubeSolver.Infrastructure.Enums;
+﻿using CubeSolver.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CubeSolver.Domain
+namespace CubeSolver.Domain.Domains
 {
     public class Face
     {

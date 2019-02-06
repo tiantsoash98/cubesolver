@@ -1,5 +1,5 @@
-﻿using CubeSolver.Domain;
-using CubeSolver.Infrastructure.Enums;
+﻿using CubeSolver.Domain.Domains;
+using CubeSolver.Domain.Enums;
 
 namespace CubeSolver.Action.Actions
 {

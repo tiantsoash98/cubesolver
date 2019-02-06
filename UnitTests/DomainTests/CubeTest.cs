@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CubeSolver.Domain;
-using CubeSolver.Infrastructure.Enums;
-using CubeSolver.Infrastructure.Extensions;
+using CubeSolver.Domain.Enums;
+using CubeSolver.Domain.Extensions;
+using CubeSolver.Domain.Domains;
 
 namespace UnitTests.DomainTests
 {

@@ -1,4 +1,4 @@
-﻿using CubeSolver.Domain;
+﻿using CubeSolver.Domain.Domains;
 
 namespace CubeSolver.Action.Actions
 {

@@ -1,7 +1,6 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CubeSolver.Infrastructure.Enums;
-using CubeSolver.Infrastructure.Extensions;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using CubeSolver.Domain.Enums;
+using CubeSolver.Domain.Extensions;
 
 namespace UnitTests.Infrastructure
 {

@@ -1,4 +1,4 @@
-﻿namespace CubeSolver.Infrastructure.Enums
+﻿namespace CubeSolver.Domain.Enums
 {
     public enum PiecePosition
     {

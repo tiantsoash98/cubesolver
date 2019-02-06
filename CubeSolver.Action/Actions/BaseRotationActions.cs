@@ -1,7 +1,7 @@
 ﻿using CubeSolver.Action.Abstract;
-using CubeSolver.Domain;
-using CubeSolver.Infrastructure.Enums;
-using CubeSolver.Infrastructure.Extensions;
+using CubeSolver.Domain.Domains;
+using CubeSolver.Domain.Enums;
+using CubeSolver.Domain.Extensions;
 using System;
 using System.Collections.Generic;
 

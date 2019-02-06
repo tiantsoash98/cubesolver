@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using CubeSolver.Action.Actions;
+using CubeSolver.Domain.Domains;
 
 namespace UnitTests.ActionsTests
 {
@@ -10,7 +11,7 @@ namespace UnitTests.ActionsTests
         [TestMethod]
         public void RotateR()
         {
-            var cube = new CubeSolver.Domain.Cube();
+            var cube = new Cube();
 
             var rotateAction = new RotationActions();
 
@@ -22,7 +23,7 @@ namespace UnitTests.ActionsTests
         [TestMethod]
         public void RotateRrev()
         {
-            var cube = new CubeSolver.Domain.Cube();
+            var cube = new Cube();
 
             var rotateAction = new RotationActions();
 
